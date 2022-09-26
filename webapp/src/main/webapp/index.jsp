@@ -1,6 +1,7 @@
 <html>
 <body>
 <h1>Welcome To Srini IT</h1>
+<h1>Welcome to DevOps with AWS sessions</h1>
 </body>
 <body style="color:red;">
  <div class="container">
@@ -11,7 +12,7 @@
     <input type="password" placeholder="Enter Password" name="psw" required>
 <br></br>
    <button type="submit">Login</button>
- <h1>Welcome to DevOps with AWS sessions</h1>
+
 <style>
 h1
 {
