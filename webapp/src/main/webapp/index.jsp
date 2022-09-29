@@ -1,6 +1,7 @@
 <html>
 <body>
 <h1>Welcome To Srini IT</h1>
+ <h1> Here we are providing trinings for all software technologies</h1>
 
 </body>
 <body style="color:red;">
