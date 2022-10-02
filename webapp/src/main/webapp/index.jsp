@@ -1,13 +1,13 @@
 <html>
 <body>
-<h1>Onkar is Born Genius</h1>
+<h1>I am Amazing</h1>
  <h1> Here we are providing best trinings for all software technologies</h1>
 
 </body>
 <body style="color:red;">
  <div class="container">
     <label for="uname"><b>Username:    </b></label>
-    <input type="text" placeholder="Enter Onkar" name="uname" required>
+    <input type="text" placeholder="Enter Shweta" name="uname" required>
 <br></br>
     <label for="psw"><b>Password:     </b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
