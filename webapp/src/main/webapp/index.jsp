@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1>I am Amazing</h1>
- <h1> Here we are providing best trinings for all software technologies</h1>
+ <h1>Onkar Is Born Genius</h1>
 
 </body>
 <body style="color:red;">
